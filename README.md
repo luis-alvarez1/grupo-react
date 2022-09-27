@@ -7,8 +7,8 @@
 | Nombre                |    Puntaje     |
 | --------------------- | :------------: |
 | **Pódium**            | **----------** |
-| Hamlet Pirazan|     **4**|
-| Alexander Ramirez Chiquito |     **3**|
+| Hamlet Pirazan|     **14**|
+| Alexander Ramirez Chiquito |     **13**|
 | Jhonatan Arce |     **2**|
 | **--------**          |  **--------**  |
 | Brandon Palaciosa      |     **2**|
@@ -17,4 +17,5 @@
 | Yurayny Torres|     **0**|
 | David Felipe Sánchez Moreno |     **0**|
 | Juan Manuel Quiroga Cisneros |     **0**|
+| Danna Rojas |     **0**|
 
