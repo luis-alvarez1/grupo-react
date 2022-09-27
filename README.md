@@ -12,10 +12,11 @@
 | Jhonatan Arce |     **3**|
 | **--------**          |  **--------**  |
 | Brandon Palaciosa      |     **2**|
+| Danna Rojas |     **1**|
 | Angel Ramos |     **0**|
 | Haiber Montaña Torres |     **0**|
 | Yurayny Torres|     **0**|
 | David Felipe Sánchez Moreno |     **0**|
 | Juan Manuel Quiroga Cisneros |     **0**|
-| Danna Rojas |     **0**|
+
 
