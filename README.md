@@ -11,7 +11,6 @@
 | Alexander Ramirez Chiquito |     **16**|
 | Jhonatan Arce |     **11**|
 | **--------**          |  **--------**  |
-
 | Yurayny Torres|     **8**|
 | Karolybe Rentería |     **3**|
 | Brandon Palaciosa      |     **2**|
