@@ -9,13 +9,13 @@
 | **Pódium**            | **----------** |
 | Hamlet Pirazan|     **14**|
 | Alexander Ramirez Chiquito |     **13**|
-| Jhonatan Arce |     **3**|
+| Jhonatan Arce |     **8**|
 | **--------**          |  **--------**  |
+| Yurayny Torres|     **5**|
 | Brandon Palaciosa      |     **2**|
 | Danna Rojas |     **1**|
 | Angel Ramos |     **0**|
 | Haiber Montaña Torres |     **0**|
-| Yurayny Torres|     **0**|
 | David Felipe Sánchez Moreno |     **0**|
 | Juan Manuel Quiroga Cisneros |     **0**|
 
