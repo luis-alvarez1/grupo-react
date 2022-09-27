@@ -9,7 +9,7 @@
 | **Pódium**            | **----------** |
 | Hamlet Pirazan|     **14**|
 | Alexander Ramirez Chiquito |     **13**|
-| Jhonatan Arce |     **2**|
+| Jhonatan Arce |     **3**|
 | **--------**          |  **--------**  |
 | Brandon Palaciosa      |     **2**|
 | Angel Ramos |     **0**|
