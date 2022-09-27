@@ -12,9 +12,9 @@
 | Jhonatan Arce |     **11**|
 | **--------**          |  **--------**  |
 | Yurayny Torres|     **8**|
-| Karolybe Rentería |     **3**|
-| Brandon Palaciosa      |     **2**|
 | Danna Rojas |     **4**|
+| Karolyne Rentería |     **3**|
+| Brandon Palaciosa      |     **2**|
 | Angel Ramos |     **0**|
 | David Felipe Sánchez Moreno |     **0**|
 | Juan Manuel Quiroga Cisneros |     **0**|
