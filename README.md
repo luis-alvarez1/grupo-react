@@ -7,7 +7,7 @@
 | Nombre                |    Puntaje     |
 | --------------------- | :------------: |
 | **Pódium**            | **----------** |
-| Hamlet Pirazan|     **17**|
+| Hamlet Pirazan|     **22**|
 | Alexander Ramirez Chiquito |     **16**|
 | Jhonatan Arce |     **11**|
 | **--------**          |  **--------**  |
@@ -18,6 +18,3 @@
 | Angel Ramos |     **0**|
 | David Felipe Sánchez Moreno |     **0**|
 | Juan Manuel Quiroga Cisneros |     **0**|
-
-
-
