@@ -7,7 +7,7 @@
 | Nombre                |    Puntaje     |
 | --------------------- | :------------: |
 | **Pódium**            | **----------** |
-| Hamlet Pirazan|     **32**|
+| Hamlet Pirazan|     **42**|
 | Alexander Ramirez Chiquito |     **26**|
 | Jhonatan Arce |     **11**|
 | **--------**          |  **--------**  |
