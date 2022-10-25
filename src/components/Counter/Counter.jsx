@@ -1,13 +1,10 @@
-import React, { useState } from 'react';
+import React from 'react';
 import PropTypes from 'prop-types';
+import { useCounter } from '../../hooks/useCounter';
 import './Counter.css';
 
-export const Counter = (props) => {
-  const { defaultCounter } = props;
-  const [counter, setCounter] = useState(defaultCounter);
-  const decrease = () => setCounter(counter - 1);
-  const reset = () => setCounter(defaultCounter);
-  const increment = () => setCounter(counter + 1);
+export const Counter = ({ defaultCounter }) => {
+  const { counter, decrease, reset, increment } = useCounter(defaultCounter);
 
   return (
     <div className='app'>
